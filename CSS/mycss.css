@@ -1,0 +1,19 @@
+#p1 {
+    text-align: center;
+    color: rgb(9, 243, 9);
+}
+
+#p2 {
+    text-align: center;
+    font-size: 50px;
+    color: rgb(240, 229, 229);
+    background-color: rgb(20, 163, 220);
+}
+#body {
+    background-color: #0af845;
+}
+#p3 {
+    font-size: 70px;
+    text-align: center;
+    color:rgb(20, 163, 220);
+}
